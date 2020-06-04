@@ -1,7 +1,0 @@
----
-title: Studio
----
-## Introduction
-
-## Equipment
-

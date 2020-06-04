@@ -1,4 +1,0 @@
----
-title: Toolbox
-home: true
----
