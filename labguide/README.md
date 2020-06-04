@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /image/logomain.png
-heroText: Lab Platform
-tagline: Open FIESTA, Tsinghua Shenzhen
+heroText: BaoYanQuan
+tagline: A demo of BaoYanQuan, Tsinghua Shenzhen
 actionText: Lab Guidance →
 actionLink: /labs/
 features:

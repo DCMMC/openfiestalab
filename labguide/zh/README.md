@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: /image/logomain.png
-heroText: 实验室平台
-tagline: Open FIESTA清华深圳
-actionText: 实验室导览 →
+heroText: 保研圈
+tagline: 保研资讯辅导一站式解决方案
+actionText: 更多 →
 actionLink: /zh/labs/
 # features:
 # - title: 生命健康交叉实验室(J213)
