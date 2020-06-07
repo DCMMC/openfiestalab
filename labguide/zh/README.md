@@ -2,17 +2,10 @@
 home: true
 heroImage: /image/logomain.png
 heroText: 保研圈
-tagline: 保研资讯辅导一站式解决方案
+tagline: 学生互助的保研资源的乐享平台
 actionText: 更多 →
 actionLink: /zh/labs/
-# features:
-# - title: 生命健康交叉实验室(J213)
-#   details: 
-# - title: 创新设计空间(J211)
-#   details: 
-# - title: 创意交互空间（J212）
-#   details: 
-footer: MIT Licensed | Copyright © 2019-2020 Open FIESTA
+footer: Copyright © 2020 保研圈
 ---
 
 
