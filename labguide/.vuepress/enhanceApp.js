@@ -1,5 +1,6 @@
 import Vuetify from "vuetify";
-import "vuetify/dist/vuetify.css";
+// import "vuetify/dist/vuetify.css";
+import 'vuetify/dist/vuetify.min.css';
 import colors from 'vuetify/es5/util/colors';
 export default ({
     Vue, // the version of Vue being used in the VuePress app
