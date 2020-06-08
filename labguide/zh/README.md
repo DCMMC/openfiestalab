@@ -10,12 +10,12 @@ footer: Copyright © 2020 保研圈
 
 <template>
 <v-app>
-  <p class="display-2" style="text-align:center;">
+  <p class="display-1" style="text-align: center; font-weight: bold;">
     我们的理念
   </p>
   <v-container fluid>
   <v-row align="center" justify="center">
-    <v-col align="center" justify="center" cols="4" sm="12" xs="12" lg="4" xl="4">
+    <v-col align="center" justify="center" md="4" sm="12" xs="12" lg="4" xl="4">
       <v-card
           max-width="400px"
           min-width="250px"
@@ -31,7 +31,7 @@ footer: Copyright © 2020 保研圈
           </v-card-text>
       </v-card>
     </v-col>
-    <v-col align="center" justify="center" cols="4" sm="12" xs="12" lg="4" xl="4">
+    <v-col align="center" justify="center" md="4" sm="12" xs="12" lg="4" xl="4">
       <v-card
           max-width="400px"
           min-width="250px"
@@ -47,7 +47,7 @@ footer: Copyright © 2020 保研圈
           </v-card-text>
       </v-card>
     </v-col>
-    <v-col align="center" justify="center" cols="4" sm="12" xs="12" lg="4" xl="4">
+    <v-col align="center" justify="center" md="4" sm="12" xs="12" lg="4" xl="4">
       <v-card
           max-width="400px"
           min-width="250px"
@@ -66,12 +66,12 @@ footer: Copyright © 2020 保研圈
   </v-row>
   </v-container>
   <br/><br/>
-  <p class="display-2" style="text-align:center;">
+  <p class="display-1" style="text-align: center; font-weight: bold;">
     保研圈的若干特色
   </p>
   <v-container fluid>
   <v-row align="center" justify="center">
-    <v-col align="center" justify="center" cols="6" sm="6" xs="12" lg="6" xl="6">
+    <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
           max-width="400px"
           min-width="250px"
@@ -87,7 +87,7 @@ footer: Copyright © 2020 保研圈
           </v-card-text>
       </v-card>
     </v-col>
-    <v-col align="center" justify="center" cols="6" sm="6" xs="12" lg="6" xl="6">
+    <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
           max-width="400px"
           min-width="250px"
@@ -103,7 +103,7 @@ footer: Copyright © 2020 保研圈
           </v-card-text>
       </v-card>
     </v-col>
-    <v-col align="center" justify="center" cols="6" sm="6" xs="12" lg="6" xl="6">
+    <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
           max-width="400px"
           min-width="250px"
@@ -119,7 +119,7 @@ footer: Copyright © 2020 保研圈
           </v-card-text>
       </v-card>
     </v-col>
-    <v-col align="center" justify="center" cols="6" sm="6" xs="12" lg="6" xl="6">
+    <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
           max-width="400px"
           min-width="250px"
@@ -137,6 +137,27 @@ footer: Copyright © 2020 保研圈
     </v-col>
   </v-row>
   </v-container>
+  <p class="display-1 text--primary" style="font-weight: bold; text-align: center;">
+    关于我们
+  </p>
+  <v-container fluid>
+    <v-row align="center" justify="center">
+      <div class="title text--primary">
+        保研圈是首个业内由精英硕博保研生组成的公益/商业并行团队。
+      </div>
+    </v-row>
+    <v-row align="center" justify="center">
+      <div class="title text--primary">
+        <b>公益路线</b>：每周保研透底实用课程，群内每日无限制答疑辅导，资源干货全免费
+      </div>
+    </v-row>
+    <v-row align="center" justify="center">
+      <div class="title text--primary">
+        <b>商业路线</b>：保研辅导服务，以最低花费为度量衡，打造业内最具性价比的保研辅导服务
+      </div>
+    </v-row>
+  </v-container>
+  </div>
 </v-app>
 </template>
 
