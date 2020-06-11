@@ -17,10 +17,8 @@ footer: Copyright © 2020 保研圈
   <v-row align="center" justify="center">
     <v-col align="center" justify="center" md="4" sm="12" xs="12" lg="4" xl="4">
       <v-card
-          max-width="400px"
-          min-width="250px"
           ripple
-          style="background: linear-gradient(45deg,#FF5370,#ff869a);"
+          class="our-slogan gradient-pink"
         >
           <v-card-text>
             <p class="display-1 white--text">
@@ -34,10 +32,8 @@ footer: Copyright © 2020 保研圈
     </v-col>
     <v-col align="center" justify="center" md="4" sm="12" xs="12" lg="4" xl="4">
       <v-card
-          max-width="400px"
-          min-width="250px"
           ripple
-          style="background: linear-gradient(45deg,#2ed8b6,#59e0c5);"
+          class="our-slogan gradient-green"
         >
           <v-card-text>
             <p class="display-1 white--text">
@@ -51,10 +47,8 @@ footer: Copyright © 2020 保研圈
     </v-col>
     <v-col align="center" justify="center" md="4" sm="12" xs="12" lg="4" xl="4">
       <v-card
-          max-width="400px"
-          min-width="250px"
           ripple
-          style="background: linear-gradient(45deg,#4099ff,#73b4ff);"
+          class="our-slogan gradient-blue"
         >
           <v-card-text>
             <p class="display-1 white--text">
@@ -76,10 +70,8 @@ footer: Copyright © 2020 保研圈
   <v-row align="center" justify="center">
     <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
-          max-width="400px"
-          min-width="250px"
           ripple
-          style="background: linear-gradient(45deg,#4099ff,#73b4ff);"
+          class="our-feature gradient-blue"
         >
           <v-card-text>
             <p class="display-1 white--text">
@@ -93,10 +85,8 @@ footer: Copyright © 2020 保研圈
     </v-col>
     <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
-          max-width="400px"
-          min-width="250px"
           ripple
-          style="background: linear-gradient(45deg,#2ed8b6,#59e0c5);"
+          class="our-feature gradient-green"
         >
           <v-card-text>
             <p class="display-1 white--text">
@@ -110,10 +100,8 @@ footer: Copyright © 2020 保研圈
     </v-col>
     <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
-          max-width="400px"
-          min-width="250px"
           ripple
-          style="background: linear-gradient(45deg,#FFB64D,#ffcb80);"
+          class="our-feature gradient-yellow"
         >
           <v-card-text>
             <p class="display-1 white--text">
@@ -127,10 +115,8 @@ footer: Copyright © 2020 保研圈
     </v-col>
     <v-col align="center" justify="center" md="6" sm="6" xs="12" lg="6" xl="6">
       <v-card
-          max-width="400px"
-          min-width="250px"
           ripple
-          style="background: linear-gradient(45deg,#FF5370,#ff869a);"
+          class="our-feature gradient-pink"
         >
           <v-card-text>
             <p class="display-1 white--text">
@@ -149,17 +135,17 @@ footer: Copyright © 2020 保研圈
   </p>
   <v-container fluid>
     <v-row align="center" justify="center">
-      <div class="title text--primary">
+      <div class="title text--primary about-us">
         保研圈是首个业内由精英硕博保研生组成的公益/商业并行团队。
       </div>
     </v-row>
     <v-row align="center" justify="center">
-      <div class="title text--primary">
+      <div class="title text--primary about-us">
         <b>公益路线</b>：每周保研透底实用课程，群内每日无限制答疑辅导，资源干货全免费
       </div>
     </v-row>
     <v-row align="center" justify="center">
-      <div class="title text--primary">
+      <div class="title text--primary about-us">
         <b>商业路线</b>：保研辅导服务，以最低花费为度量衡，打造业内最具性价比的保研辅导服务
       </div>
     </v-row>
@@ -167,44 +153,3 @@ footer: Copyright © 2020 保研圈
   </div>
 </v-app>
 </template>
-
-
-<!-- <br/>
-
-<br>
-<div id="app">
-<v-app id="inspire">
- <v-carousel cycle height="400" hide-delimiter-background show-arrows-on-hover>
-    <v-carousel-item>
-      <v-sheet color="white" height="100%">
-        <v-row class="fill-height" align="center" justify="center">
-          <v-img src="/image/residency.jpg"></v-img>
-        </v-row>
-      </v-sheet>
-    </v-carousel-item>
-    <v-carousel-item>
-      <v-sheet height="100%">
-        <v-row class="fill-height" align="center" justify="center">
-          <v-img src="/image/goshimg.jpg"></v-img>
-        </v-row>
-      </v-sheet>
-    </v-carousel-item>
-        <v-carousel-item>
-      <v-sheet height="100%">
-        <v-row class="fill-height" align="center" justify="center">
-          <v-img src="/image/summercampimg.jpg"></v-img>
-        </v-row>
-      </v-sheet>
-    </v-carousel-item>
-        </v-carousel-item>
-        <v-carousel-item>
-      <v-sheet height="100%">
-        <v-row class="fill-height" align="center" justify="center">
-          <v-img src="/image/joelimg.jpg"></v-img>
-        </v-row>
-      </v-sheet>
-    </v-carousel-item>
- </v-carousel>
- </v-app>
- </div>
-<br> -->

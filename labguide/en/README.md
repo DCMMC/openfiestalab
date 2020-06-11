@@ -135,17 +135,17 @@ footer: Copyright © 2020 保研圈
   </p>
   <v-container fluid>
     <v-row align="center" justify="center">
-      <div class="title text--primary about-us">
+      <div class="title text--primary">
         保研圈是首个业内由精英硕博保研生组成的公益/商业并行团队。
       </div>
     </v-row>
     <v-row align="center" justify="center">
-      <div class="title text--primary about-us">
+      <div class="title text--primary">
         <b>公益路线</b>：每周保研透底实用课程，群内每日无限制答疑辅导，资源干货全免费
       </div>
     </v-row>
     <v-row align="center" justify="center">
-      <div class="title text--primary about-us">
+      <div class="title text--primary">
         <b>商业路线</b>：保研辅导服务，以最低花费为度量衡，打造业内最具性价比的保研辅导服务
       </div>
     </v-row>
@@ -153,3 +153,44 @@ footer: Copyright © 2020 保研圈
   </div>
 </v-app>
 </template>
+
+
+<!-- <br/>
+
+<br>
+<div id="app">
+<v-app id="inspire">
+ <v-carousel cycle height="400" hide-delimiter-background show-arrows-on-hover>
+    <v-carousel-item>
+      <v-sheet color="white" height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/residency.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/goshimg.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+        <v-carousel-item>
+      <v-sheet height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/summercampimg.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+        </v-carousel-item>
+        <v-carousel-item>
+      <v-sheet height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/joelimg.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+ </v-carousel>
+ </v-app>
+ </div>
+<br> -->
